@@ -165,7 +165,7 @@ let occurencesOfFruits = arrayOfFruits.reduce((count, fruit) => {
 
 console.log(occurencesOfFruits)
 
-//--------------Sheet 1p2 --------- Assignment 7 ------------//
+//--------------Sheet 1p1 --------- Assignment 10 ------------//
 class Rectangle {
     constructor(width, height){
         this.width = width
