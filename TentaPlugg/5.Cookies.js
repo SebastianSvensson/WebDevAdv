@@ -5,7 +5,8 @@ Set-Cookie header in HTTP response), how they are transmitted between the client
 and server, and their properties (e.g., expires, path, domain, secure, HttpOnly).
 ---------------------------------------------------------------------------------
 *What are Cookies?*
-Cookies are small pieces of data stored on the client's browser. They are used to remember information about the user between HTTP requests. Cookies are commonly used for session management, personalization, and tracking.
+Cookies are small pieces of data stored on the client's browser. They are used to remember information about the user between HTTP requests. 
+Cookies are commonly used for session management, personalization, and tracking.
 
 *How Cookies are Created*
 Cookies can be created in two main ways:

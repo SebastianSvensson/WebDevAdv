@@ -16,11 +16,13 @@ Understand the lifecycle of a cookie and how to manage cookies in the browser.
         Content-Type: text/html
         Set-Cookie: username=JohnDoe; expires=Fri, 31 Dec 2025 23:59:59 GMT; path=/
 
-    In this example, the server sets a cookie named username with the value JohnDoe. The cookie has an expiration date, a path, and other optional attributes.
+    In this example, the server sets a cookie named username with the value JohnDoe. 
+    The cookie has an expiration date, a path, and other optional attributes.
 
 *Sending Cookies Back to the Server*
 
-    Once a cookie is set, the browser will send the cookie back to the server with each subsequent request to the same domain. This is done using the Cookie header in the HTTP request.
+    Once a cookie is set, the browser will send the cookie back to the server with each subsequent request to the same domain. 
+    This is done using the Cookie header in the HTTP request.
 
     Example: Sending a Cookie in an HTTP Request
 
@@ -91,5 +93,9 @@ Understand the lifecycle of a cookie and how to manage cookies in the browser.
 
 *Summary*
 
-Understanding how cookies are set by the server, sent back to the server with each request, and managed in the browser is crucial for web development. Cookies play a vital role in session management, user tracking, and personalization. By mastering the lifecycle of a cookie and how to manage them, you can effectively use cookies in your web applications.
+Understanding how cookies are set by the server, sent back to the server with each request, 
+and managed in the browser is crucial for web development. Cookies play a vital role in session management, 
+user tracking, and personalization. By mastering the lifecycle of a cookie and how to manage them, 
+you can effectively use cookies in your web applications.
+
 */

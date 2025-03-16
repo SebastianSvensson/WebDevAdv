@@ -69,7 +69,8 @@ Know the differences between NoSQL and SQL databases and when to use each type.
                 });
         
         * Graph Databases:
-            Description: Store data as nodes, edges, and properties. Nodes represent entities, edges represent relationships, and properties store information about nodes and edges.
+            Description: Store data as nodes, edges, and properties. Nodes represent entities, edges represent relationships, 
+            and properties store information about nodes and edges.
             Use Case: Suitable for social networks, recommendation engines, and fraud detection.
             Example: Neo4j, Amazon Neptune
             Example Code (using Neo4j):
